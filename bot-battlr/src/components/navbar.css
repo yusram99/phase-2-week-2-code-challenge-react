@@ -1,0 +1,39 @@
+/* navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fafafa;
+    color: rgb(0, 0, 0);
+    padding-top: 25px;
+    padding-left: 20%;
+    padding-right: 8%;
+  }
+  
+  .navbar a {
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .navbar a:hover {
+    color: #ff0202;
+  }
+  
+  .form-control {
+    margin-right: 10px;
+  }
+  
+  .btn-outline-success {
+    color: #040404;
+    border-color: #000200;
+  }
+  
+  .btn-outline-success:hover {
+    color: #b12222;
+    background-color: #28a745;
+    border-color: #28a745;
+    
+  }
+  
+  
