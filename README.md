@@ -29,7 +29,7 @@ To run the app locally on your machine, follow these steps:
 
 - The BotArmy component, located in src/components/YourBotArmy.js, displays the enlisted bots in your army. Clicking on a bot card here will remove it from your army.
 
-<!-- # Contributing -->
+# Contributing
 Contributions to the project are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, feel free to create pull requests.
 
 # License
