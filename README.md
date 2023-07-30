@@ -32,5 +32,5 @@ To run the app locally on your machine, follow these steps:
 # Contributing
 Contributions to the project are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, feel free to create pull requests.
 
-# License
+ License
 This project is licensed under the MIT License. See the LICENSE file for details.
