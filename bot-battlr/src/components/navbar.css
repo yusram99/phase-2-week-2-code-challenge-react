@@ -8,8 +8,8 @@
     padding-top: 25px;
     padding-left: 20%;
     padding-right: 8%;
-    margin-right: 10px;
-
+    margin-right: 0px;
+    padding-bottom: 20px;
   }
   
   .navbar a {
@@ -34,11 +34,13 @@
   .btn-outline-success {
     color: #040404;
     border-color: #000200;
+    background-color: rgb(62, 121, 240);
   }
   
   .btn-outline-success:hover {
-    color: #b12222;
+    color: #f7f1f1;
     background-color: #28a745;
     border-color: #28a745;
   }
+  
  

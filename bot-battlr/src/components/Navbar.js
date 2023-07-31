@@ -15,7 +15,7 @@ function NavBar() {
           <a href="/bort-collection" className="navbar-brand">
             Bot Collection
           </a>
-          <div className="btn">
+          <div className="btn1">
           <form className="d-flex" role="search">
             <input
               className="form-control me-2"
