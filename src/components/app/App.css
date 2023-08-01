@@ -1,0 +1,15 @@
+
+.Cont{
+  font-family: Times New Roman;
+}
+.card{
+  background-color: rgb(247, 209, 152);
+  display: flex;
+  margin: 0 3px;
+  padding: 0px 0px;
+  height: auto;
+  width: 250px;
+}
+
+ 
+  
